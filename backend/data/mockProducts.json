@@ -1,0 +1,63 @@
+[
+    {
+      "id": "p1",
+      "name": "Classic White T-Shirt",
+      "price": 1499,
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600"
+    },
+    {
+      "id": "p2",
+      "name": "Comfy Grey Hoodie",
+      "price": 2999,
+      "img": "https://images.unsplash.com/photo-1602810318383-e7c9e5b16d1d?w=600"
+    },
+    {
+      "id": "p3",
+      "name": "Minimalist Black Cap",
+      "price": 899,
+      "img": "https://images.unsplash.com/photo-1528701800489-20be56d9c5f3?w=600"
+    },
+    {
+      "id": "p4",
+      "name": "Canvas Backpack",
+      "price": 3499,
+      "img": "https://images.unsplash.com/photo-1504280390368-3971e38c93a3?w=600"
+    },
+    {
+      "id": "p5",
+      "name": "Ceramic Coffee Mug",
+      "price": 599,
+      "img": "https://images.unsplash.com/photo-1503602642458-232111445657?w=600"
+    },
+    {
+      "id": "p6",
+      "name": "Running Sneakers",
+      "price": 4999,
+      "img": "https://images.unsplash.com/photo-1606813902912-0c3d37d5d8af?w=600"
+    },
+    {
+      "id": "p7",
+      "name": "Denim Jeans",
+      "price": 2799,
+      "img": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=600"
+    },
+    {
+      "id": "p8",
+      "name": "Wireless Headphones",
+      "price": 6999,
+      "img": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600"
+    },
+    {
+      "id": "p9",
+      "name": "Smartwatch Series X",
+      "price": 10999,
+      "img": "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f?w=600"
+    },
+    {
+      "id": "p10",
+      "name": "Leather Wallet",
+      "price": 1899,
+      "img": "https://images.unsplash.com/photo-1536305030437-402fc6d8d5e0?w=600"
+    }
+  ]
+  
